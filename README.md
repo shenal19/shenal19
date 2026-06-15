@@ -122,24 +122,19 @@ Real-time cricket ball detection and motion tracking using OpenCV.
 
 ## 🌐 Connect With Me
 
+
 <p align="center">
-
 <a href="https://linkedin.com/in/shenbaga-balaji-6b4b8228a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="mailto:shenal19406@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/shenal19">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
