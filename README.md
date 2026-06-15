@@ -1,123 +1,199 @@
-# Hi there 👋 I'm Shenbagabalaji A
+<div align="center">
 
-### Software Engineer | Data Analytics Enthusiast | Machine Learning Developer
+# 👋 Hi, I'm Shenbagabalaji A
 
-🎓 B.Tech CSE (Data Science) @ VIT Chennai  
-💻 Passionate about building data-driven applications and solving real-world problems with code.  
-☁️ Exploring Cloud Computing, Machine Learning, and Data Engineering.
+### 🚀 Software Engineer | 📊 Data Analytics | 🤖 Machine Learning | ☁️ Cloud
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analytics+Enthusiast;Machine+Learning+Developer;AWS+Cloud+Learner;Always+Learning+Something+New" />
+
+<p>
+
+<a href="https://github.com/shenal19">
+<img src="https://img.shields.io/github/followers/shenal19?style=for-the-badge&color=blue"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shenal19&style=for-the-badge&color=blue"/>
+
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🔭 Building end-to-end analytics and ML projects
-- 🌱 Currently learning AWS Cloud & Advanced DSA
-- 📊 Interested in Data Analytics, Backend Development & AI
-- 💡 Love transforming raw data into meaningful insights
-- 🎯 Actively preparing for Software Engineer & Data Analyst roles
+```yaml
+Name: Shenbagabalaji A
+
+Education:
+  - B.Tech CSE (Data Science)
+  - VIT Chennai
+
+Interested In:
+  - Software Engineering
+  - Data Analytics
+  - Machine Learning
+  - Cloud Computing
+
+Currently Learning:
+  - AWS Solutions Architect
+  - Advanced DSA
+  - System Design
+
+Fun Fact:
+  "I love building projects that solve real-world problems."
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-`Java` `Python` `SQL` `C++` `R`
 
-### Data & Machine Learning
-`Pandas` `NumPy`
-`Random Forest`
-`Feature Engineering`
-`Data Preprocessing`
-`Model Evaluation`
-`spaCy NLP`
+<p>
 
-### Databases
-`PostgreSQL`
-`MySQL`
-`Amazon DynamoDB`
+<img src="https://skillicons.dev/icons?i=java,python,cpp,r,mysql,postgres"/>
 
-### Tools & Cloud
-`Git`
-`Streamlit`
-`Power BI`
-`AWS`
-`Oracle Cloud Infrastructure`
-`Stibo STEP MDM`
+</p>
 
----
+### Frameworks & Libraries
 
-## 🚀 Featured Projects
+<p>
 
-### 🎬 Netflix Analytics & Recommendation Intelligence Platform
+<img src="https://skillicons.dev/icons?i=git,aws,opencv"/>
 
-- Python ETL Pipelines
-- Advanced PostgreSQL Analytics
-- Interactive Power BI Dashboards
-- Recommendation & Churn Analysis
+</p>
 
-**Tech:** Python • SQL • PostgreSQL • Power BI
+**Also Experienced In**
+
+- Pandas
+- NumPy
+- Streamlit
+- Power BI
+- spaCy NLP
+- Random Forest
+- Oracle Cloud Infrastructure
 
 ---
 
-### 🐞 Software Bug Prediction System
+# 🚀 Featured Projects
 
-Machine Learning application that predicts software defects using Random Forest models.
+## 🎬 Netflix Analytics & Recommendation Intelligence Platform
 
-**Tech:** Python • Scikit-Learn • Streamlit
+> ETL Pipelines • PostgreSQL Analytics • Power BI Dashboards
 
-⭐ Accuracy: 93%
+📈 Recommendation Engine
 
----
+📊 Churn Analysis
 
-### 🏏 Cricket Ball Tracking System
-
-Real-time cricket ball detection and motion tracking using OpenCV.
-
-**Tech:** Python • OpenCV • Computer Vision
+💰 Revenue Insights
 
 ---
 
-### 📄 AgreeWise – AI Terms & Conditions Analyzer
+## 🐞 Software Bug Prediction System
 
-NLP application for clause extraction, summarization, and transparency scoring.
+Random Forest based software defect prediction
 
-**Tech:** Python • spaCy • NLP
+✅ 93% Prediction Accuracy
 
----
-
-## 📈 GitHub Goals
-
-- ✅ Build impactful projects
-- ✅ Solve 300+ DSA problems
-- ✅ Master SQL & System Design
-- ✅ Contribute to Open Source
-- ✅ Earn AWS Solutions Architect Certification
+✅ Streamlit Dashboard
 
 ---
 
-## 🏆 Achievements
+## 📄 AgreeWise
 
-🏅 OCI Generative AI Professional Certified
+AI-powered Terms & Conditions Analyzer
 
-🏅 IBM Data Science with Python Certified
+✔ NLP
+
+✔ Clause Extraction
+
+✔ Transparency Scoring
+
+---
+
+## 🏏 Cricket Ball Tracking
+
+OpenCV Computer Vision Project
+
+Real-time Ball Detection & Motion Tracking
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shenal19&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenal19&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shenal19&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 OCI Generative AI Professional
+
+🏅 IBM Data Science with Python
 
 🏅 150+ DSA Problems Solved
 
 🏅 LeetCode Contest Rating: 1450
 
-🏏 State-Level Cricket Player (TNCA U14 • U16 • U19)
+🏏 State Level Cricket Player
 
 ---
 
-## 🌐 Connect
+# 🌱 Currently Working On
 
-📧 Email: **shenal19406@gmail.com**
+```text
+☁ AWS Solutions Architect
 
-💼 LinkedIn: **linkedin.com/in/shenbaga-balaji-6b4b8228a**
+💻 LeetCode Daily
 
-💻 GitHub: **github.com/shenal19**
+📊 SQL Analytics
+
+🤖 Machine Learning Projects
+
+🚀 Open Source Contributions
+```
 
 ---
 
-> *"Code. Analyze. Build. Improve. Repeat."*
+# 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://linkedin.com/in/shenbaga-balaji-6b4b8228a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shenal19406@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/shenal19">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Code • Analyze • Build • Improve • Repeat ⭐
+
+</div>
