@@ -121,10 +121,3 @@ NLP application for clause extraction, summarization, and transparency scoring.
 
 > *"Code. Analyze. Build. Improve. Repeat."*
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shenal19&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shenal19&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shenal19)
