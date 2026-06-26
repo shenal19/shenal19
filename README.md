@@ -102,7 +102,7 @@ Real-time cricket ball detection and motion tracking using OpenCV.
 
 🏅 IBM Data Science with Python
 
-🏅 150+ DSA Problems Solved
+🏅 200+ DSA Problems Solved
 
 🏅 LeetCode Contest Rating: 1450
 
