@@ -26,7 +26,7 @@ Interests:
   - Cloud Computing
 
 Currently Learning:
-  - AWS Solutions Architect
+  - CS Fundamentals
   - Advanced DSA
   - System Design
 
