@@ -100,6 +100,8 @@ Real-time cricket ball detection and motion tracking using OpenCV.
 
 🏅 Oracle Cloud Infrastructure Generative AI Professional
 
+🏅 AWS Certified Solutions Architect - Associate
+
 🏅 IBM Data Science with Python
 
 🏅 200+ DSA Problems Solved
