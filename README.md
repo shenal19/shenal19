@@ -108,7 +108,7 @@ Real-time cricket ball detection and motion tracking using OpenCV.
 
 🏅 LeetCode Contest Rating: 1450
 
-🏏 State-Level Cricket Player (TNCA U14 • U16 • U19)
+🏏 District-Level Cricket Player (TNCA U14 • U16 • U19)
 
 ---
 
