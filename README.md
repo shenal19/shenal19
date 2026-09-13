@@ -1,342 +1,320 @@
-
-
-
 <div align="center">
 
-👋 Hi, I'm Shenbagabalaji A
-💻 Software Engineering  •  📊 Data Analytics  •  🤖 Machine Learning  •  ☁️ Cloud
-<br/>
+# 👋 Hi, I'm Shenbagabalaji A
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2F81F7&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+Developer;Data+Analytics+Enthusiast;Machine+Learning+Developer;Cloud+%26+AI+Learner;Always+Building+Something+New" />
+### 💻 Software Engineering • 📊 Data Analytics • 🤖 Machine Learning • ☁️ Cloud
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+Developer;Data+Analytics+Enthusiast;Machine+Learning+Developer;Cloud+%26+AI+Learner;Always+Building+Something+New" />
 
-<a href="https://github.com/shenal19"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://linkedin.com/in/shenbaga-balaji-6b4b8228a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:shenal19406@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<br>
 
-<br/><br/>
+<a href="https://github.com/shenal19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/shenbaga-balaji-6b4b8228a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:shenal19406@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=shenal19&label=Profile%20Views&color=2F81F7&style=flat" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shenal19&label=Profile%20Views&color=2F81F7&style=flat">
 
 </div>
 
-🧑‍💻 About Me
-I'm a final-year B.Tech Computer Science & Engineering (Data Science) student at VIT Chennai, passionate about building software systems, data-driven applications, and machine learning solutions.
 
-I enjoy working at the intersection of Software Engineering, Data Analytics, Machine Learning, and Cloud Computing.
+## 🧑‍💻 About Me
+
+I'm a final-year **B.Tech Computer Science & Engineering (Data Science)** student at **VIT Chennai**, passionate about building software systems, data-driven applications, and machine learning solutions.
+
+I enjoy working at the intersection of **Software Engineering, Data Analytics, Machine Learning, and Cloud Computing**.
 
 My focus is on building practical solutions that combine strong programming fundamentals, data-driven thinking, and real-world problem solving.
 
-<details> <summary><b>🎯 What I Focus On</b></summary>
 
-<br/>
+## 🎯 What I Work On
 
-Area	Focus
-💻 Software Engineering	Backend Development, REST APIs, scalable systems
-📊 Data Analytics	SQL, ETL, EDA, Business Intelligence
-🤖 Machine Learning	Predictive Modeling, Feature Engineering, NLP
-☁️ Cloud Computing	AWS, OCI, cloud-ready applications
-🧠 CS Foundations	DSA, OOP, DBMS, OS, Computer Networks, System Design
-</details>
+💻 **Software Engineering**  
+Building reliable backend systems, REST APIs, and scalable applications.
 
-🛠️ Tech Stack
-💻 Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,cpp,typescript,javascript,r" /> </p>
+📊 **Data Analytics**  
+Working with SQL, ETL, EDA, dashboards, and business intelligence.
 
-🌐 Web & Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express" /> <br/><br/> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/RBAC-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> </p>
+🤖 **Machine Learning**  
+Developing predictive models using feature engineering, NLP, and applied ML.
 
-🗄️ Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> <br/><br/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/> <img src="https://img.shields.io/badge/Database%20Transactions-444444?style=for-the-badge"/> <img src="https://img.shields.io/badge/Concurrency%20Control-444444?style=for-the-badge"/> </p>
+☁️ **Cloud Computing**  
+Building and exploring cloud-ready applications using AWS and OCI.
 
-☁️ Cloud & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,git,github,postman" /> <br/><br/> <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
+🧠 **Computer Science**  
+Strengthening DSA, OOP, DBMS, Operating Systems, Computer Networks, and System Design.
 
-📊 Data Science & Machine Learning
-<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </p>
 
-<p align="center">
+## 🛠️ Tech Stack
 
-Random Forest  •  Feature Engineering  •  NLP  •  Predictive Modeling  •  Time-Series Forecasting  •  EDA
+### 💻 Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,typescript,javascript,r">
 </p>
 
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top">
+### 🌐 Web & Backend
 
-🎟️ High-Concurrency Ticket Booking Platform
-Full-Stack Development • Backend Engineering • Concurrency • PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express">
+</p>
+
+`REST APIs` `JWT` `RBAC` `Prisma` `Concurrency Control`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb">
+</p>
+
+`SQL` `Database Transactions` `Concurrency Control`
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman">
+</p>
+
+`Oracle Cloud` `Streamlit` `Power BI` `Tableau` `MS Excel` `Stibo STEP MDM`
+
+### 📊 Data Science & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+
+`Random Forest` `Feature Engineering` `NLP` `Predictive Modeling` `Time-Series Forecasting` `EDA`
+
+
+## 🚀 Featured Projects
+
+### 🎟️ High-Concurrency Ticket Booking Platform
+
+**Full-Stack Development • Backend Engineering • Concurrency • PostgreSQL**
 
 A full-stack ticket booking platform designed to handle concurrent seat reservations while preventing double booking.
 
-Key Features
+**Key Features**
 
-🔐 JWT-based authentication
+- 🔐 JWT-based authentication
+- 🛡️ Role-Based Access Control
+- 🎫 Transaction-safe seat reservations
+- ⏱️ TTL-based temporary seat holds
+- 🔒 Concurrency protection against double booking
+- 📋 FIFO waitlist management
+- 🗄️ PostgreSQL database integration
+- 🚀 Full-stack deployment
 
-🛡️ Role-Based Access Control
+**Tech:**  
+`TypeScript` `JavaScript` `React` `Node.js` `PostgreSQL` `Prisma` `JWT` `REST APIs`
 
-🎫 Transaction-safe seat reservations
 
-⏱️ TTL-based temporary seat holds
+### 🎬 Netflix Analytics & Recommendation Platform
 
-🔒 Concurrency protection against double booking
-
-📋 FIFO waitlist management
-
-🗄️ PostgreSQL database integration
-
-🚀 Full-stack deployment
-
-Stack
-
-TypeScript JavaScript React Node.js PostgreSQL Prisma JWT REST APIs
-
-</td>
-
-<td width="50%" valign="top">
-
-🎬 Netflix Analytics & Recommendation Platform
-Data Engineering • SQL Analytics • Business Intelligence
+**Data Engineering • SQL Analytics • Business Intelligence**
 
 A data analytics platform designed to transform large-scale Netflix data into actionable business insights.
 
-Key Features
+**Key Features**
 
-⚙️ Python ETL pipelines
+- ⚙️ Python ETL pipelines
+- 📊 Processing of **50,000+ records**
+- 🗄️ PostgreSQL & SQL analytics
+- 📈 Interactive Power BI dashboards
+- 🎯 Recommendation analysis
+- 👥 User engagement analysis
+- 📉 Churn insights
+- 💰 Revenue intelligence
+- ⚡ Automated reporting workflows
 
-📊 Processing of 50,000+ records
+**Tech:**  
+`Python` `Pandas` `PostgreSQL` `SQL` `Power BI`
 
-🗄️ Advanced PostgreSQL & SQL analytics
 
-📈 Interactive Power BI dashboards
+### 🐞 Software Bug Prediction System
 
-🎯 Recommendation analysis
-
-👥 User engagement analysis
-
-📉 Churn insights
-
-💰 Revenue intelligence
-
-⚡ Automated reporting workflows
-
-Stack
-
-Python Pandas PostgreSQL SQL Power BI
-
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
-
-🐞 Software Bug Prediction System
-Machine Learning • Predictive Analytics • Streamlit
+**Machine Learning • Predictive Analytics • Streamlit**
 
 Machine learning system for predicting software defects using software engineering metrics.
 
-Key Features
+**Key Features**
 
-🤖 Random Forest classification
+- 🤖 Random Forest classification
+- 📊 Feature engineering
+- 🧪 Model evaluation
+- 🎯 **93% prediction accuracy**
+- 📈 Prediction visualization
+- 🌐 Interactive Streamlit application
 
-📊 Feature engineering
+**Tech:**  
+`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `Machine Learning`
 
-🧪 Model evaluation
 
-🎯 93% prediction accuracy
+### 📊 AI-Powered Sales Analytics Dashboard
 
-📈 Prediction visualization
-
-🌐 Interactive Streamlit application
-
-Stack
-
-Python Scikit-learn Pandas NumPy Streamlit Machine Learning
-
-</td>
-
-<td width="50%" valign="top">
-
-📊 AI-Powered Sales Analytics Dashboard
-Machine Learning • Forecasting • Business Intelligence
+**Machine Learning • Forecasting • Business Intelligence**
 
 Analytics dashboard combining machine learning and visualization to generate actionable sales insights.
 
-Key Features
+**Key Features**
 
-📈 Sales trend forecasting
+- 📈 Sales trend forecasting
+- 🚨 Revenue anomaly detection
+- 🤖 Automated business insights
+- 📊 Interactive Plotly visualizations
+- 📁 Dataset upload and analysis
 
-🚨 Revenue anomaly detection
+**Tech:**  
+`Python` `Scikit-learn` `Pandas` `Streamlit` `Plotly`
 
-🤖 Automated business insights
 
-📊 Interactive Plotly visualizations
+### 🏏 Cricket Ball Tracking System
 
-📁 Dataset upload and analysis
-
-Stack
-
-Python Scikit-learn Pandas Streamlit Plotly
-
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
-
-🏏 Cricket Ball Tracking System
-Computer Vision • YOLOv8 • Real-Time Analytics
+**Computer Vision • YOLOv8 • Real-Time Analytics**
 
 Real-time computer vision system for detecting and tracking cricket balls for sports performance analysis.
 
-Key Features
+**Key Features**
 
-🎯 Cricket ball detection
+- 🎯 Cricket ball detection
+- 🏏 Ball tracking
+- 📍 Bounce-point visualization
+- 📐 Trajectory analysis
+- ⚡ 25–30 FPS processing
+- 📊 Ball speed and motion analysis
 
-🏏 Ball tracking
+**Tech:**  
+`Python` `OpenCV` `YOLOv8` `Computer Vision`
 
-📍 Bounce-point visualization
 
-📐 Trajectory analysis
+## 💼 Experience
 
-⚡ 25–30 FPS processing
+### 🔹 Data Science Trainee — Skillumni
 
-📊 Ball speed and motion analysis
+- Worked on data preprocessing and exploratory data analysis.
+- Applied feature engineering techniques to datasets.
+- Built machine learning workflows using Python.
+- Worked with Python and SQL for practical data analysis problems.
 
-Stack
 
-Python OpenCV YOLOv8 Computer Vision
+### 🔹 STEP Master Data Management Intern — ISNIA Technologies
 
-</td>
+- Worked with **Stibo STEP Master Data Management**.
+- Performed data validation and transformation.
+- Worked across **100+ enterprise records**.
+- Identified and resolved data inconsistencies to improve data quality.
 
-<td width="50%" valign="top">
 
-🔎 What I Like Building
-I enjoy projects that combine:
+### 🔹 Data Science with Python Trainee — Coincent
 
-Software Engineering
-Reliable APIs • Backend systems • Concurrency
+- Worked on Python-based data analysis workflows.
+- Performed data preprocessing and exploratory analysis.
+- Applied visualization and machine learning concepts to practical datasets.
 
-Data
-ETL • SQL • Analytics • Business Intelligence
 
-AI/ML
-Prediction • NLP • Computer Vision • Applied AI
+## 🏆 Achievements & Leadership
 
-</td> </tr> </table>
+🎵 **Operations Team Leader — VIT Chennai Music Club**  
+Coordinated logistics and cross-functional teams for club events.
 
-💼 Experience
-🔹 Data Science Trainee — Skillumni
-Worked on data preprocessing and exploratory data analysis.
+🏆 **Smart India Hackathon 2025**  
+Contributor — AI-Powered Tourism Platform.
 
-Applied feature engineering techniques to datasets.
+💻 **GlitchCon 2025**  
+Contributor — 24-Hour Hackathon organized by ECDS & VITAA.
 
-Built machine learning workflows using Python.
+🏏 **TNCA State-Level Cricket Tournaments**  
+Represented **Dindigul District** in U14, U16 & U19.
 
-Worked with Python and SQL for practical data analysis problems.
 
-🔹 STEP Master Data Management Intern — ISNIA Technologies
-Worked with Stibo STEP Master Data Management.
+## 📜 Certifications
 
-Performed data validation and transformation.
+☁️ **AWS Certified Solutions Architect – Associate**  
+2026
 
-Worked across 100+ enterprise records.
+🤖 **Oracle Cloud Infrastructure Generative AI Professional**  
+2025
 
-Identified and resolved data inconsistencies to improve data quality.
+📊 **IBM Data Science with Python**  
+2025
 
-🔹 Data Science with Python Trainee — Coincent
-Worked on Python-based data analysis workflows.
 
-Performed data preprocessing and exploratory analysis.
+## 🧠 Core Computer Science
 
-Applied visualization and machine learning concepts to practical datasets.
+`Data Structures & Algorithms`  
+`Object-Oriented Programming`  
+`Database Management Systems`  
+`Operating Systems`  
+`Computer Networks`  
+`Software Engineering`  
+`System Design`
 
-🏆 Achievements & Leadership
+
+## 🌱 Currently Learning
+
+`Advanced DSA` → `Backend Engineering` → `System Design` → `Cloud Architecture` → `Applied AI & Machine Learning`
+
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-🏆 Achievement	🎯 Area
-🎵 Operations Team Leader — VIT Chennai Music Club	Leadership
-🏆 Contributor — Smart India Hackathon 2025	Hackathon
-💻 Contributor — GlitchCon 2025 24-Hour Hackathon	Hackathon
-🏏 Represented Dindigul District in TNCA State-Level Cricket Tournaments — U14, U16 & U19	Sports
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shenal19&show_icons=true&hide_border=true&theme=transparent">
 
-📜 Certifications
-<div align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shenal19&hide_border=true&theme=transparent">
 
-Certification	Area
-☁️ AWS Certified Solutions Architect – Associate	Cloud
-🤖 Oracle Cloud Infrastructure Generative AI Professional	Generative AI
-📊 IBM Data Science with Python	Data Science
-</div>
+<br><br>
 
-🧠 Core Computer Science
-<div align="center">
-
-💻 Programming	🧠 CS Fundamentals
-Java	Data Structures & Algorithms
-Python	Object-Oriented Programming
-C++	Database Management Systems
-SQL	Operating Systems
-JavaScript / TypeScript	Computer Networks
-R	Software Engineering
-</div>
-
-🌱 Currently Learning
-<div align="center">
-
-Advanced DSA
-
-⬇️
-
-Backend Engineering
-
-⬇️
-
-System Design
-
-⬇️
-
-Cloud Architecture
-
-⬇️
-
-Applied AI & Machine Learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenal19&layout=compact&hide_border=true&theme=transparent">
 
 </div>
 
-📊 GitHub Statistics
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shenal19&show_icons=true&hide_border=true&theme=transparent" />
+## 🎯 What I'm Looking For
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shenal19&hide_border=true&theme=transparent" />
-
-</div>
-
-💻 Languages Used
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenal19&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-🎯 What I'm Looking For
 I'm interested in opportunities where I can work on:
 
-Software Engineering
-Backend Development
-Data Analytics
-Machine Learning
-Data Engineering
-AI-powered Applications
+💻 **Software Engineering**  
+⚙️ **Backend Development**  
+📊 **Data Analytics**  
+🤖 **Machine Learning**  
+🔧 **Data Engineering**  
+🚀 **AI-powered Applications**
 
-I'm particularly interested in solving real-world problems through a combination of strong engineering fundamentals and data-driven thinking.
+I'm particularly interested in solving real-world problems through a combination of **strong engineering fundamentals and data-driven thinking**.
 
-🌐 Connect With Me
+
+## 🌐 Connect With Me
+
 <div align="center">
 
-<a href="https://linkedin.com/in/shenbaga-balaji-6b4b8228a"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:shenal19406@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp; <a href="https://github.com/shenal19"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/shenbaga-balaji-6b4b8228a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:shenal19406@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/shenal19">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<br/><br/>
+<br><br>
 
-⭐ Build • Analyze • Solve • Learn • Improve ⭐
-"Building scalable software with data-driven thinking."
+### ⭐ Build • Analyze • Solve • Learn • Improve ⭐
+
+*"Building scalable software with data-driven thinking."*
 
 </div>
-
