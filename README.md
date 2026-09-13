@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Shenbagabalaji A
+👋 Hi, I'm Shenbagabalaji A
 
-### 💻 Software Engineering &nbsp;•&nbsp; 📊 Data Analytics &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; ☁️ Cloud
+💻 Software Engineering  •  📊 Data Analytics  •  🤖 Machine Learning  •  ☁️ Cloud
 
 <br>
 
@@ -28,17 +28,14 @@
 
 </div>
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+I'm a final-year B.Tech Computer Science & Engineering (Data Science) student at VIT Chennai, passionate about building software systems, data-driven applications, and machine learning solutions.
 
-I'm a final-year **B.Tech Computer Science & Engineering (Data Science)** student at **VIT Chennai**, passionate about building software systems, data-driven applications, and machine learning solutions.
-
-I enjoy working at the intersection of **Software Engineering, Data Analytics, Machine Learning, and Cloud Computing**.
+I enjoy working at the intersection of Software Engineering, Data Analytics, Machine Learning, and Cloud Computing.
 
 My focus is on building practical solutions that combine strong programming fundamentals with real-world problem solving.
 
-```yaml
 Focus:
   - Software Engineering
   - Backend Development
@@ -63,13 +60,10 @@ Currently Learning:
   - System Design
   - Cloud Architecture
   - Applied AI
-```
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
+💻 Languages
 
 <p align="center">
 
@@ -77,9 +71,7 @@ Currently Learning:
 
 </p>
 
----
-
-### 🌐 Web & Backend
+🌐 Web & Backend
 
 <p align="center">
 
@@ -96,9 +88,7 @@ Currently Learning:
 
 </p>
 
----
-
-### 🗄️ Databases
+🗄️ Databases
 
 <p align="center">
 
@@ -114,9 +104,7 @@ Currently Learning:
 
 </p>
 
----
-
-### ☁️ Cloud & Tools
+☁️ Cloud & Tools
 
 <p align="center">
 
@@ -132,9 +120,7 @@ Currently Learning:
 
 </p>
 
----
-
-### 📊 Data Science & Machine Learning
+📊 Data Science & Machine Learning
 
 <p align="center">
 
@@ -146,263 +132,281 @@ Currently Learning:
 
 <p align="center">
 
-`Random Forest` • `Feature Engineering` • `NLP` • `Predictive Modeling` • `Time-Series Forecasting` • `EDA`
+Random Forest • Feature Engineering • NLP • Predictive Modeling • Time-Series Forecasting • EDA
 
 </p>
 
----
-
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
-### 🎟️ High-Concurrency Ticket Booking Platform
+🎟️ High-Concurrency Ticket Booking Platform
 
-**Full-Stack Development • Backend Engineering • Concurrency • PostgreSQL**
+Full-Stack Development • Backend Engineering • Concurrency • PostgreSQL
 
 </div>
 
 A full-stack ticket booking platform designed to handle concurrent seat reservations while preventing double booking.
 
-**Key Features**
+Key Features
 
-- 🔐 JWT-based authentication
-- 🛡️ Role-Based Access Control
-- 🎫 Transaction-safe seat reservations
-- ⏱️ TTL-based temporary seat holds
-- 🔒 Concurrency protection against double booking
-- 📋 FIFO waitlist management
-- 🗄️ PostgreSQL database integration
-- 🚀 Full-stack deployment
+🔐 JWT-based authentication
 
-**Tech Stack**
+🛡️ Role-Based Access Control
 
-`TypeScript` `JavaScript` `React` `Node.js` `PostgreSQL` `Prisma` `JWT` `REST APIs`
+🎫 Transaction-safe seat reservations
 
----
+⏱️ TTL-based temporary seat holds
+
+🔒 Concurrency protection against double booking
+
+📋 FIFO waitlist management
+
+🗄️ PostgreSQL database integration
+
+🚀 Full-stack deployment
+
+Tech Stack
+
+TypeScript JavaScript React Node.js PostgreSQL Prisma JWT REST APIs
 
 <div align="center">
 
-### 🎬 Netflix Analytics & Recommendation Platform
+🎬 Netflix Analytics & Recommendation Platform
 
-**Data Engineering • SQL Analytics • Business Intelligence**
+Data Engineering • SQL Analytics • Business Intelligence
 
 </div>
 
 A data analytics platform designed to transform large-scale Netflix data into actionable business insights.
 
-**Key Features**
+Key Features
 
-- ⚙️ Python ETL pipelines
-- 📊 Processing of **50,000+ records**
-- 🗄️ Advanced PostgreSQL & SQL analytics
-- 📈 Interactive Power BI dashboards
-- 🎯 Recommendation analysis
-- 👥 User engagement analysis
-- 📉 Churn insights
-- 💰 Revenue intelligence
-- ⚡ Automated reporting workflows
+⚙️ Python ETL pipelines
 
-**Tech Stack**
+📊 Processing of 50,000+ records
 
-`Python` `Pandas` `PostgreSQL` `SQL` `Power BI`
+🗄️ Advanced PostgreSQL & SQL analytics
 
----
+📈 Interactive Power BI dashboards
+
+🎯 Recommendation analysis
+
+👥 User engagement analysis
+
+📉 Churn insights
+
+💰 Revenue intelligence
+
+⚡ Automated reporting workflows
+
+Tech Stack
+
+Python Pandas PostgreSQL SQL Power BI
 
 <div align="center">
 
-### 🐞 Software Bug Prediction System
+🐞 Software Bug Prediction System
 
-**Machine Learning • Predictive Analytics • Streamlit**
+Machine Learning • Predictive Analytics • Streamlit
 
 </div>
 
 Machine learning system for predicting software defects using software engineering metrics.
 
-**Key Features**
+Key Features
 
-- 🤖 Random Forest classification
-- 📊 Feature engineering
-- 🧪 Model evaluation
-- 🎯 **93% prediction accuracy**
-- 📈 Prediction visualization
-- 🌐 Interactive Streamlit application
+🤖 Random Forest classification
 
-**Tech Stack**
+📊 Feature engineering
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `Machine Learning`
+🧪 Model evaluation
 
----
+🎯 93% prediction accuracy
+
+📈 Prediction visualization
+
+🌐 Interactive Streamlit application
+
+Tech Stack
+
+Python Scikit-learn Pandas NumPy Streamlit Machine Learning
 
 <div align="center">
 
-### 📊 AI-Powered Sales Analytics Dashboard
+📊 AI-Powered Sales Analytics Dashboard
 
-**Machine Learning • Forecasting • Business Intelligence**
+Machine Learning • Forecasting • Business Intelligence
 
 </div>
 
 Analytics dashboard combining machine learning and visualization to generate actionable sales insights.
 
-**Key Features**
+Key Features
 
-- 📈 Sales trend forecasting
-- 🚨 Revenue anomaly detection
-- 🤖 Automated business insights
-- 📊 Interactive Plotly visualizations
-- 📁 Dataset upload and analysis
+📈 Sales trend forecasting
 
-**Tech Stack**
+🚨 Revenue anomaly detection
 
-`Python` `Scikit-learn` `Pandas` `Streamlit` `Plotly`
+🤖 Automated business insights
 
----
+📊 Interactive Plotly visualizations
+
+📁 Dataset upload and analysis
+
+Tech Stack
+
+Python Scikit-learn Pandas Streamlit Plotly
 
 <div align="center">
 
-### 🏏 Cricket Ball Tracking System
+🏏 Cricket Ball Tracking System
 
-**Computer Vision • YOLOv8 • Real-Time Analytics**
+Computer Vision • YOLOv8 • Real-Time Analytics
 
 </div>
 
 Real-time computer vision system for detecting and tracking cricket balls for sports performance analysis.
 
-**Key Features**
+Key Features
 
-- 🎯 Cricket ball detection
-- 🏏 Ball tracking
-- 📍 Bounce-point visualization
-- 📐 Trajectory analysis
-- ⚡ 25–30 FPS processing
-- 📊 Ball speed and motion analysis
+🎯 Cricket ball detection
 
-**Tech Stack**
+🏏 Ball tracking
 
-`Python` `OpenCV` `YOLOv8` `Computer Vision`
+📍 Bounce-point visualization
 
----
+📐 Trajectory analysis
 
-## 💼 Experience
+⚡ 25–30 FPS processing
 
-### 🔹 Data Science Trainee — Skillumni
+📊 Ball speed and motion analysis
 
-- Worked on data preprocessing and exploratory data analysis.
-- Applied feature engineering techniques to datasets.
-- Built machine learning workflows using Python.
-- Worked with Python and SQL for practical data analysis problems.
+Tech Stack
 
----
+Python OpenCV YOLOv8 Computer Vision
 
-### 🔹 STEP Master Data Management Intern — ISNIA Technologies
+💼 Experience
 
-- Worked with **Stibo STEP Master Data Management**.
-- Performed data validation and transformation.
-- Worked across **100+ enterprise records**.
-- Identified and resolved data inconsistencies to improve data quality.
+🔹 Data Science Trainee — Skillumni
 
----
+Worked on data preprocessing and exploratory data analysis.
 
-### 🔹 Data Science with Python Trainee — Coincent
+Applied feature engineering techniques to datasets.
 
-- Worked on Python-based data analysis workflows.
-- Performed data preprocessing and exploratory analysis.
-- Applied visualization and machine learning concepts to practical datasets.
+Built machine learning workflows using Python.
 
----
+Worked with Python and SQL for practical data analysis problems.
 
-## 🧠 Problem Solving
+🔹 STEP Master Data Management Intern — ISNIA Technologies
 
-<div align="center">
+Worked with Stibo STEP Master Data Management.
 
-# 300+ LeetCode Problems Solved
+Performed data validation and transformation.
 
-### Data Structures & Algorithms • Problem Solving • Optimization
+Worked across 100+ enterprise records.
 
-<br>
+Identified and resolved data inconsistencies to improve data quality.
 
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+🔹 Data Science with Python Trainee — Coincent
 
-</div>
+Worked on Python-based data analysis workflows.
 
-I consistently practice problems across:
+Performed data preprocessing and exploratory analysis.
 
-`Arrays` `Hashing` `Two Pointers` `Sliding Window` `Binary Search`
+Applied visualization and machine learning concepts to practical datasets.
 
-`Linked Lists` `Stacks` `Queues` `Trees` `Graphs`
+🏆 Achievements & Leadership
 
-`Greedy` `Backtracking` `Dynamic Programming` `Heaps`
+🎵 Operations Team Leader — VIT Chennai Music Club
 
----
+🏆 Contributor — Smart India Hackathon 2025
 
-## 🏆 Achievements & Leadership
+💻 Contributor — GlitchCon 2025 24-Hour Hackathon
 
-- 🧠 **Solved 300+ problems on LeetCode**
-- 🏏 Represented **Dindigul District** in TNCA State-Level Cricket Tournaments — U14, U16 & U19
-- 🎵 **Operations Team Leader — VIT Chennai Music Club**
-- 🏆 Contributor — **Smart India Hackathon 2025**
-- 💻 Contributor — **GlitchCon 2025 24-Hour Hackathon**
+🏏 Represented Dindigul District in TNCA State-Level Cricket Tournaments — U14, U16 & U19
 
----
-
-## 📜 Certifications
+📜 Certifications
 
 <div align="center">
 
-| Certification | Area |
-|:---|:---|
-| ☁️ AWS Certified Solutions Architect – Associate | Cloud |
-| 🤖 Oracle Cloud Infrastructure Generative AI Professional | Generative AI |
-| 📊 IBM Data Science with Python | Data Science |
+Certification
+
+Area
+
+☁️ AWS Certified Solutions Architect – Associate
+
+Cloud
+
+🤖 Oracle Cloud Infrastructure Generative AI Professional
+
+Generative AI
+
+📊 IBM Data Science with Python
+
+Data Science
 
 </div>
 
----
-
-## 📚 Core Computer Science
+📚 Core Computer Science
 
 <div align="center">
 
-| 💻 Programming | 🧠 CS Fundamentals |
-|:---:|:---:|
-| Java | Data Structures & Algorithms |
-| Python | Object-Oriented Programming |
-| C++ | Database Management Systems |
-| SQL | Operating Systems |
-| JavaScript / TypeScript | Computer Networks |
-| R | Software Engineering |
+💻 Programming
+
+🧠 CS Fundamentals
+
+Java
+
+Data Structures & Algorithms
+
+Python
+
+Object-Oriented Programming
+
+C++
+
+Database Management Systems
+
+SQL
+
+Operating Systems
+
+JavaScript / TypeScript
+
+Computer Networks
+
+R
+
+Software Engineering
 
 </div>
 
----
-
-## 🌱 Currently Learning
+🌱 Currently Learning
 
 <div align="center">
 
-`Advanced DSA`
+Advanced DSA
 
 ⬇️
 
-`Backend Engineering`
+Backend Engineering
 
 ⬇️
 
-`System Design`
+System Design
 
 ⬇️
 
-`Cloud Architecture`
+Cloud Architecture
 
 ⬇️
 
-`Applied AI & Machine Learning`
+Applied AI & Machine Learning
 
 </div>
 
----
-
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
@@ -412,9 +416,7 @@ I consistently practice problems across:
 
 </div>
 
----
-
-## 💻 Languages Used
+💻 Languages Used
 
 <div align="center">
 
@@ -422,24 +424,20 @@ I consistently practice problems across:
 
 </div>
 
----
-
-## 🎯 What I'm Looking For
+🎯 What I'm Looking For
 
 I'm interested in opportunities where I can work on:
 
-**Software Engineering**  
-**Backend Development**  
-**Data Analytics**  
-**Machine Learning**  
-**Data Engineering**  
-**AI-powered Applications**
+Software Engineering
+Backend Development
+Data Analytics
+Machine Learning
+Data Engineering
+AI-powered Applications
 
-I'm particularly interested in solving real-world problems through a combination of **strong engineering fundamentals and data-driven thinking**.
+I'm particularly interested in solving real-world problems through a combination of strong engineering fundamentals and data-driven thinking.
 
----
-
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
@@ -447,13 +445,13 @@ I'm particularly interested in solving real-world problems through a combination
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="mailto:shenal19406@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="https://github.com/shenal19">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -461,14 +459,12 @@ I'm particularly interested in solving real-world problems through a combination
 
 </div>
 
----
-
 <div align="center">
 
-### ⭐ Build • Analyze • Solve • Learn • Improve ⭐
+⭐ Build • Analyze • Solve • Learn • Improve ⭐
 
 <br>
 
-*"Building scalable software with data-driven thinking."*
+"Building scalable software with data-driven thinking."
 
 </div>
